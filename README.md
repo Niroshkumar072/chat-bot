@@ -17,6 +17,8 @@ Run
 chat
 ```python app.py```
 
+# Modules
+In this application we have modules like json file where our text and response is given and thes respones are taken into ```models.py``` file and using ```pytorch``` and ```nltk``` module we will dump by running ```train.py``` where the train.py file trains the model and data file and gives us data predection and losses  ```data.pth``` file and using that our app runs.
 
 # Screenshots
 
